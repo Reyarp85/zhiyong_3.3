@@ -1,0 +1,19 @@
+{
+  "name": "my_1st_node_app",
+  "version": "1.0.0",
+  "description": "This is my 1st node application for CE5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyarp85/my_1st_node_app.git"
+  },
+  "author": "ZhiYong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reyarp85/my_1st_node_app/issues"
+  },
+  "homepage": "https://github.com/Reyarp85/my_1st_node_app#readme"
+}
