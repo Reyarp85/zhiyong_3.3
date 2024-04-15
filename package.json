@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Reyarp85/my_1st_node_app/issues"
   },
-  "homepage": "https://github.com/Reyarp85/my_1st_node_app#readme"
+  "homepage": "https://github.com/Reyarp85/my_1st_node_app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
