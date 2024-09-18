@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Reyarp85/my_1st_node_app#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.20.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"
